@@ -1,0 +1,8 @@
+spring:            #全局配置
+#  thymeleaf:
+#    cache: true
+  profiles:
+    active: pro
+
+
+
